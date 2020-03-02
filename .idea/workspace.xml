@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33bdc482-4694-43ff-ad3e-638955a792fc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YX25qPJWXeBbrQyjsnzF2cm0ro" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="pytest-samples" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="pytest-samples" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\api\tests" />
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\api\lib" />
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\api" />
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\ui" />
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.pytest for api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator">
+    <configuration name="pytest for api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests/suite_yandex_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in C:/Users/Ilimdar/PycharmProjects/pytest-samples/tests/suite_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/suite_1" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/suite_1&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.pytest for api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator" />
+        <item itemvalue="Python tests.pytest in C:/Users/Ilimdar/PycharmProjects/pytest-samples/tests/suite_1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33bdc482-4694-43ff-ad3e-638955a792fc" name="Default Changelist" comment="" />
+      <created>1583074439962</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583074439962</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="409" y="159" width="1102" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583139228458">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="409" y="159" width="1102" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583139228458" />
+    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1583076052831">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1583076052831" />
+    <state width="1892" height="550" key="GridCell.Tab.0.bottom" timestamp="1583154816543">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="550" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816543" />
+    <state width="1892" height="550" key="GridCell.Tab.0.center" timestamp="1583154816542">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="550" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816542" />
+    <state width="1892" height="550" key="GridCell.Tab.0.left" timestamp="1583154816542">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="550" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816542" />
+    <state width="1892" height="550" key="GridCell.Tab.0.right" timestamp="1583154816543">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="550" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816543" />
+    <state width="1892" height="431" key="GridCell.Tab.1.bottom" timestamp="1583149196380">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="431" key="GridCell.Tab.1.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583149196380" />
+    <state width="1892" height="431" key="GridCell.Tab.1.center" timestamp="1583149196380">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="431" key="GridCell.Tab.1.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583149196380" />
+    <state width="1892" height="431" key="GridCell.Tab.1.left" timestamp="1583149196380">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="431" key="GridCell.Tab.1.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583149196380" />
+    <state width="1892" height="431" key="GridCell.Tab.1.right" timestamp="1583149196380">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="431" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583149196380" />
+    <state x="344" y="56" key="SettingsEditor" timestamp="1583140032367">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1583140032367" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1583136201815">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583136201815" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1583148076298">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1583148076298" />
+  </component>
+</project>

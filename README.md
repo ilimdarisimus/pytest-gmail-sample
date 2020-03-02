@@ -1,0 +1,2 @@
+# pytest-samples
+ Учебный проект
