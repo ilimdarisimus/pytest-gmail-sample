@@ -19,5 +19,3 @@ class YandexTranslate:
         data = f'key={self.api_key}&lang={lang}&text={text}'
         answer = requests.post(url, data=data, headers=headers).json()
         return answer
-
-    def
