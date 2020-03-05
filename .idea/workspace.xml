@@ -1,7 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="33bdc482-4694-43ff-ad3e-638955a792fc" name="Default Changelist" comment="" />
+    <list default="true" id="33bdc482-4694-43ff-ad3e-638955a792fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/api/lib/mysqldb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/pages/BaseApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ui/pages/YandexPages.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/pytest-samples.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/pytest-samples.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/page_methods/BaseApp.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/page_methods/YandexPages.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ui/tests/tests_Yandex.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tests/tests_Yandex.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +23,12 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="PATH_TO_GIT" value="C:\Program Files\Git\bin\git.exe" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1YX25qPJWXeBbrQyjsnzF2cm0ro" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,7 +36,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.documentation.PythonDocumentationConfigurable" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/GitHub/TestRepos" />
+    <property name="run.code.analysis.last.selected.profile" value="aDefault" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -34,48 +51,124 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\ui\tests" />
+      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples" />
       <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\api\tests" />
       <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\api\lib" />
       <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\api" />
-      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples\ui" />
-      <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator">
-    <configuration name="pytest for api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python tests.pytest for tests_Yandex.test_yandex_search">
+    <configuration name="yandex_translate" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pytest-samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/lib" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/lib/yandex_translate.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="tests" factoryName="py.test">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for api.tests.test_yandex_translate.test_another" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests/suite_yandex_api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;--conftest C:\\Users\\Ilimdar\\PycharmProjects\\pytest-samples\\ui\\page_methods\\conftest.py&quot;" />
+      <option name="_new_target" value="&quot;api.tests.test_yandex_translate.test_another&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for test_yandex_translate.test_yandex_translator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;test_yandex_translate.test_yandex_translator&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for tests_Yandex.test_yandex_search" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui/tests" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;tests_Yandex.test_yandex_search&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in test_yandex_translate.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="pytest-samples" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests/suite_yandex_api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
-      <method v="2" />
-    </configuration>
-    <configuration name="pytest in C:/Users/Ilimdar/PycharmProjects/pytest-samples/tests/suite_1" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
-      <module name="pytest-samples" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/tests/suite_1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="_new_keywords" value="&quot;&quot;" />
-      <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;$PROJECT_DIR$/tests/suite_1&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/api/tests/test_yandex_translate.py&quot;" />
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
+    <list>
+      <item itemvalue="Python.yandex_translate" />
+      <item itemvalue="Python tests.pytest for api.tests.test_yandex_translate.test_another" />
+      <item itemvalue="Python tests.pytest for test_yandex_translate.test_yandex_translator" />
+      <item itemvalue="Python tests.pytest for tests_Yandex.test_yandex_search" />
+      <item itemvalue="Python tests.pytest in test_yandex_translate.py" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.pytest for api.tests.suite_yandex_api.test_yandex_translate.test_yandex_translator" />
-        <item itemvalue="Python tests.pytest in C:/Users/Ilimdar/PycharmProjects/pytest-samples/tests/suite_1" />
+        <item itemvalue="Python tests.pytest for tests_Yandex.test_yandex_search" />
+        <item itemvalue="Python tests.pytest for test_yandex_translate.test_yandex_translator" />
+        <item itemvalue="Python.yandex_translate" />
+        <item itemvalue="Python tests.pytest in test_yandex_translate.py" />
+        <item itemvalue="Python tests.pytest for api.tests.test_yandex_translate.test_another" />
       </list>
     </recent_temporary>
   </component>
@@ -93,30 +186,46 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="409" y="159" width="1102" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583139228458">
+    <state x="409" y="159" width="1102" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1583232570016">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="409" y="159" width="1102" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583139228458" />
-    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1583076052831">
+    <state x="409" y="159" width="1102" height="873" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583232570016" />
+    <state x="623" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1583311585035">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1583076052831" />
-    <state width="1892" height="550" key="GridCell.Tab.0.bottom" timestamp="1583154816543">
+    <state x="623" y="199" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583311585035" />
+    <state x="622" y="55" key="#conftest" timestamp="1583231772721">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="550" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816543" />
-    <state width="1892" height="550" key="GridCell.Tab.0.center" timestamp="1583154816542">
+    <state x="622" y="55" key="#conftest/0.0.1920.1032@0.0.1920.1032" timestamp="1583231772721" />
+    <state x="622" y="55" key="#yandex_translate" timestamp="1583232532352">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="550" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816542" />
-    <state width="1892" height="550" key="GridCell.Tab.0.left" timestamp="1583154816542">
+    <state x="622" y="55" key="#yandex_translate/0.0.1920.1032@0.0.1920.1032" timestamp="1583232532352" />
+    <state x="651" y="344" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1583426145429">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="550" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816542" />
-    <state width="1892" height="550" key="GridCell.Tab.0.right" timestamp="1583154816543">
+    <state x="651" y="344" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1920.1032@0.0.1920.1032" timestamp="1583426145429" />
+    <state x="686" y="209" key="FileChooserDialogImpl" timestamp="1583229160285">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="550" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583154816543" />
+    <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1583229160285" />
+    <state width="1892" height="380" key="GridCell.Tab.0.bottom" timestamp="1583325198281">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="380" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1583325198281" />
+    <state width="1892" height="380" key="GridCell.Tab.0.center" timestamp="1583325198280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="380" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1583325198280" />
+    <state width="1892" height="380" key="GridCell.Tab.0.left" timestamp="1583325198280">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="380" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1583325198280" />
+    <state width="1892" height="380" key="GridCell.Tab.0.right" timestamp="1583325198281">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1892" height="380" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583325198281" />
     <state width="1892" height="431" key="GridCell.Tab.1.bottom" timestamp="1583149196380">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -133,14 +242,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state width="1892" height="431" key="GridCell.Tab.1.right/0.0.1920.1032@0.0.1920.1032" timestamp="1583149196380" />
-    <state x="344" y="56" key="SettingsEditor" timestamp="1583140032367">
+    <state x="344" y="56" key="SettingsEditor" timestamp="1583159578321">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1583140032367" />
-    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1583136201815">
+    <state x="344" y="56" key="SettingsEditor/0.0.1920.1032@0.0.1920.1032" timestamp="1583159578321" />
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1583159680254">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583136201815" />
+    <state x="91" y="91" width="1738" height="850" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583159680254" />
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog" timestamp="1583425470455">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="579" y="295" key="com.intellij.ide.util.TipDialog/0.0.1920.1032@0.0.1920.1032" timestamp="1583425470455" />
+    <state x="495" y="130" width="929" height="772" key="find.popup" timestamp="1583313020441">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="495" y="130" width="929" height="772" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1583313020441" />
     <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1583148076298">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>

@@ -1,2 +1,5 @@
 /.idea/
 
+*.iml
+.idea/pytest-samples.iml
+*.iml
