@@ -1,5 +1,7 @@
 /.idea/
-
+.idea/*
+.pytest_cache
 *.iml
 .idea/pytest-samples.iml
 *.iml
+venv
