@@ -10,6 +10,7 @@ class YandexTranslate:
         self.host = host
 
     def get_translate_json_response(self, lang, text):
+        """ ,hf"""
         url = 'https://translate.yandex.net/api/v1.5/tr.json/translate'
         headers = {'Host': self.host,
                    'Accept': 'application/json',

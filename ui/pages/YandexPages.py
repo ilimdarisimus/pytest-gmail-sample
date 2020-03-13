@@ -6,10 +6,13 @@ class YandexSearchLocators:
     SEARCH_FIELD = (By.ID, "text")
     SEARCH_BUTTON = (By.CLASS_NAME, "search2__button")
     NAVIGATION_BAR = (By.CSS_SELECTOR, ".service__name")
-    RESULTS_HEADERS = (By.CSS_SELECTOR, "div.organic__url-text"
+    RESULTS_HEADERS = (By.CSS_SELECTOR, "div.organic__url-text")
+
+
 class SearchHelper(BasePage):
 
     def enter_word(self, word):
+        """ Вводит в поле поиска слово """
         search_field = self.find_element(YandexSearchLocators.SEARCH_FIELD)
         search_field.click()
         search_field.send_keys(word)

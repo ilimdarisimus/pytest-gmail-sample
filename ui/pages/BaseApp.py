@@ -18,3 +18,7 @@ class BasePage:
 
     def go_to_site(self):
         return self.driver.get(self.base_url)
+
+    def test_test(self):
+        answer = self.go_to_site()
+        ansert
