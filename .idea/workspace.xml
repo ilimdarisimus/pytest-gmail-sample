@@ -6,13 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="33bdc482-4694-43ff-ad3e-638955a792fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/lib/mysqldb.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/lib/yandex_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/lib/yandex_translate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/api/tests/test_yandex_translate.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/test_yandex_translate.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/pages/BaseApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/pages/BaseApp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/pages/YandexPages.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/pages/YandexPages.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/tests/conftest.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/conftest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ui/tests/tests_Yandex.py" beforeDir="false" afterPath="$PROJECT_DIR$/ui/tests_Yandex.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +55,7 @@
       <recent name="C:\Users\Ilimdar\PycharmProjects\pytest-samples" />
     </key>
   </component>
-  <component name="RunManager" selected="Python tests.pytest for tests_Yandex.TestYandex.test_header_elements">
+  <component name="RunManager" selected="Python tests.pytest for test_mysql_sample_db.testing">
     <configuration default="true" type="tests" factoryName="py.test">
       <module name="pytest-samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -77,18 +71,18 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for api.test_yandex_translate.test_yandex_translator" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest for test_mysql_sample_db.testing" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest-samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;api.test_yandex_translate.test_yandex_translator&quot;" />
+      <option name="_new_target" value="&quot;test_mysql_sample_db.testing&quot;" />
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
@@ -137,35 +131,35 @@
       <option name="_new_targetType" value="&quot;PYTHON&quot;" />
       <method v="2" />
     </configuration>
-    <configuration name="pytest for ui.tests_Yandex" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+    <configuration name="pytest in test_mysql_sample_db.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
       <module name="pytest-samples" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <option name="SDK_HOME" value="C:\Users\Ilimdar\PycharmProjects\pytest-samples\venv\Scripts\python.exe" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/ui/tests" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="_new_keywords" value="&quot;&quot;" />
       <option name="_new_additionalArguments" value="&quot;&quot;" />
-      <option name="_new_target" value="&quot;ui.tests_Yandex&quot;" />
-      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/api/test_mysql_sample_db.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python tests.pytest for ui.tests_Yandex" />
-      <item itemvalue="Python tests.pytest for api.test_yandex_translate.test_yandex_translator" />
       <item itemvalue="Python tests.pytest for tests_Yandex.TestYandex.test_header_elements" />
       <item itemvalue="Python tests.pytest for test_yandex_translate.test_another" />
       <item itemvalue="Python tests.pytest for tests_Yandex.TestYandex.test_search" />
+      <item itemvalue="Python tests.pytest in test_mysql_sample_db.py" />
+      <item itemvalue="Python tests.pytest for test_mysql_sample_db.testing" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python tests.pytest for test_mysql_sample_db.testing" />
+        <item itemvalue="Python tests.pytest in test_mysql_sample_db.py" />
         <item itemvalue="Python tests.pytest for tests_Yandex.TestYandex.test_header_elements" />
         <item itemvalue="Python tests.pytest for tests_Yandex.TestYandex.test_search" />
         <item itemvalue="Python tests.pytest for test_yandex_translate.test_another" />
-        <item itemvalue="Python tests.pytest for api.test_yandex_translate.test_yandex_translator" />
-        <item itemvalue="Python tests.pytest for ui.tests_Yandex" />
       </list>
     </recent_temporary>
   </component>
@@ -207,22 +201,22 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="686" y="209" key="FileChooserDialogImpl/0.0.1920.1032@0.0.1920.1032" timestamp="1583229160285" />
-    <state width="1892" height="343" key="GridCell.Tab.0.bottom" timestamp="1584016565422">
+    <state width="1892" height="343" key="GridCell.Tab.0.bottom" timestamp="1584187971640">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1584016565422" />
-    <state width="1892" height="343" key="GridCell.Tab.0.center" timestamp="1584016565422">
+    <state width="1892" height="343" key="GridCell.Tab.0.bottom/0.0.1920.1032@0.0.1920.1032" timestamp="1584187971640" />
+    <state width="1892" height="343" key="GridCell.Tab.0.center" timestamp="1584187971640">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="343" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1584016565422" />
-    <state width="1892" height="343" key="GridCell.Tab.0.left" timestamp="1584016565422">
+    <state width="1892" height="343" key="GridCell.Tab.0.center/0.0.1920.1032@0.0.1920.1032" timestamp="1584187971640" />
+    <state width="1892" height="343" key="GridCell.Tab.0.left" timestamp="1584187971640">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="343" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1584016565422" />
-    <state width="1892" height="343" key="GridCell.Tab.0.right" timestamp="1584016565422">
+    <state width="1892" height="343" key="GridCell.Tab.0.left/0.0.1920.1032@0.0.1920.1032" timestamp="1584187971640" />
+    <state width="1892" height="343" key="GridCell.Tab.0.right" timestamp="1584187971640">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state width="1892" height="343" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1584016565422" />
+    <state width="1892" height="343" key="GridCell.Tab.0.right/0.0.1920.1032@0.0.1920.1032" timestamp="1584187971640" />
     <state width="1892" height="431" key="GridCell.Tab.1.bottom" timestamp="1583149196380">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
@@ -255,9 +249,9 @@
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
     <state x="495" y="130" width="929" height="772" key="find.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1583313020441" />
-    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584007673013">
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1584108472381">
       <screen x="0" y="0" width="1920" height="1032" />
     </state>
-    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1584007673013" />
+    <state x="539" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1920.1032@0.0.1920.1032" timestamp="1584108472381" />
   </component>
 </project>
