@@ -1,51 +1,15 @@
-import mysql.connector as mysql     # Коннектор для mysql
-from mimesis import Person as Pers  # Библиотека генерации фейковых данных
+from api.lib.mysql_db_connection import MySqlConnection as DB
+from mimesis import Food as Foo
 
 
-class MySqlConnection:
-    """ Initializing object of a class, you create new connection. This one should be stored in variable, if you going
-     to use it in future """
+class TestMysqlSampleDb:
 
-    def __init__(self):
-        self.db = mysql.connect(host="localhost",  # your host, usually localhost
-                                user="admin",    # your username
-                                passwd="admin",  # your password
-                                db="testDB")     # name of the data base
-
-        #  Создаем экземляр класса  Cursor, с помощью его методов будем работать с запросами и ответами на них
-        self.cur = db.cursor()
-
-    # Выбираем нужную БД, эту я создал вручную заранее.
-    def create_db(self, db_name):
-        """
-        Creates
-        :param db_name: Создание
-        :return:
-        """
-        self.cur.execute(f"CREATE DATABASE {db_name}")
-
-    def use_db(self, db_name):
-        self.cur.execute(f"USE {db_name}")
-
-    def add_rows_to_table(self, *args):
-
-        i = 1
-        while i < 10:
-            # Наполняем тестовую таблицу Persons значениями
-            self.cur.execute(f'INSERT INTO Persons(PersonID, FirstName, SecondName, Description) VALUES({i},'
-                    f' "{Pers().first_name()}", "{Pers().last_name()}","{Pers().occupation()}")')
-            i += 1
-        # Подтверждаем изменения
-            self.db.commit()
-    # Получаем все строки таблицы Persons
-            cur.execute("SELECT * FROM Persons")
-
-    # Выводим все строки
-    for row in cur.fetchall():
-        print(row)
-    # Закрываем подключение
-    cur.close()
-    db.close()
-
+    def test_db(self):
+        random_name = Foo().drink()
+        db = DB()
+        db.create_db(random_name)
+        db.use_db(random_name)
+        db.create_table('New_Table', ['id int(5)', 'var varchar(21)'])
+        db.close_all_connections()
 
 

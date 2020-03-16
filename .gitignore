@@ -5,3 +5,4 @@
 .idea/pytest-samples.iml
 *.iml
 venv
+.idea/workspace.xml
