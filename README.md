@@ -1,2 +1,2 @@
-# pytest-samples
- Учебный проект
+# pytest-gmail-sample
+
